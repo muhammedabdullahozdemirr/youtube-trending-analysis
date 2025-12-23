@@ -1,0 +1,5 @@
+output/youtube_trending_cleaned.csv
+*.csv
+.DS_Store
+__pycache__/
+.venv/
